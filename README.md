@@ -1,4 +1,4 @@
-# traffic-sign-recognition
+# Traffic-Sign-Recognition
 The give code is a run on Google Colab code for Traffic Sign Recognition using OpenCV, Tensorflow Keras, numpy, pandas, matplotlib librariers.
 This code have clone the dataset from the following link https://bitbucket.org/jadslim/german-traffic-signs/src/master/
 This code uses an CNN model for training and predicting the traffic signs.
