@@ -5,6 +5,8 @@ This code uses an CNN model for training and predicting the traffic signs.
 It also contains graphs for comparing the train test validation after the training of the model.
 At the end of the code you can save the model by the name "10_Epochs.h5" (You can change it if you want to.)
 Image is taken from (https://www.google.com/url?sa=i&url=https%3A%2F%2Fpaperswithcode.com%2Ftask%2Ftraffic-sign-recognition%2Fcodeless%3Fpage%3D2&psig=AOvVaw1XuPfbVvR64cJMyNF29mlz&ust=1647531539807000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDluu37yvYCFQAAAAAdAAAAABAK)
+
+
 <img width="308" alt="Screenshot_2019-11-27_at_20 13 54_uFgzj57" src="https://user-images.githubusercontent.com/90707178/158629342-6548b7bc-2db9-4cb6-bbb8-9952fa0680dd.png">
 
 
